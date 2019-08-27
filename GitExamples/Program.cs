@@ -10,8 +10,8 @@ namespace GitExamples
     {
         static void Main(string[] args)
         {
-            //code added in cprogram
-            //code added to vs
+            //code added in local to server
+            //code added to pull
             //cod added to merge
         }
     }
